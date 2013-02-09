@@ -1,4 +1,3 @@
-
 package algorithms;
 
 /**
@@ -11,7 +10,6 @@ public class Algorithms {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         QuickUnionWeighted qf=new QuickUnionWeighted(10);
         qf.union(4,3);
         qf.union(3,8);
