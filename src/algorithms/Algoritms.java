@@ -1,5 +1,5 @@
 
-package algoritms;
+package algorithms;
 
 /**
  *
