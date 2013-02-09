@@ -5,7 +5,7 @@ package algorithms;
  *
  * @author Rayo
  */
-public class Algoritms {
+public class Algorithms {
 
     /**
      * @param args the command line arguments
